@@ -1,12 +1,106 @@
-# 💫 About Me:
-# Hi there! 👋 I'm Mohammad Armaan<br><br>🎓 **B.Tech Computer Science & Engineering Student**<br><br>I'm a passionate Computer Science student with a strong interest in software development and problem-solving. I enjoy building a solid foundation in programming, exploring new technologies, and continuously improving my technical skills through hands-on projects and consistent learning.<br><br>---<br><br>## 🚀 About Me<br><br>* 🎓 Currently pursuing **Bachelor of Technology (B.Tech)** in **Computer Science & Engineering**<br>* 💻 Strong command of **C++** and **Object-Oriented Programming (OOP)**<br>* 🧩 Good understanding of **Data Structures & Algorithms (DSA)** fundamentals<br>* 🐍 Basic knowledge of **Python**<br>* 🌐 Familiar with **HTML** and **CSS**<br>* 📚 Always eager to learn new technologies and improve my development skills<br><br>---<br><br>## 💻 Technical Skills<br><br>### Programming Languages<br><br>* C++<br>* Python (Basic)<br><br>### Core Concepts<br><br>* Object-Oriented Programming (OOP)<br>* Data Structures & Algorithms (Basic)<br><br>### Web Technologies<br><br>* HTML<br>* CSS<br><br>### Tools & Technologies<br><br>* Git & GitHub<br>* Visual Studio Code<br>* Canva<br>* Microsoft Office<br><br>---<br><br>## 🌱 Currently Learning<br><br>* Advanced Data Structures & Algorithms<br>* Problem Solving<br>* Modern C++ Concepts<br>* Full-Stack Web Development<br><br>---<br><br>## 🎯 Goals<br><br>* Strengthen my problem-solving skills<br>* Build meaningful and impactful projects<br>* Contribute to open-source projects<br>* Grow as a Software Developer<br><br>---<br><br>## 📫 Connect With Me<br><br>* GitHub: https://github.com/your-username<br>* LinkedIn: https://linkedin.com/in/your-linkedin<br><br>---<br><br>⭐ *"Learning, building, and improving—one commit at a time."*<br>
+<div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Mohammed Armaan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Mohammed Armaan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mohammed Armaan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Hi 👋, I'm Mohammad Armaan
+
+### 🎓 B.Tech Computer Science & Engineering Student
+
+Passionate about Software Development, Problem Solving, and Continuous Learning.
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/OOP-Strong-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-Basic-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Mohammed Armaan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+## 💫 About Me
+
+🎓 Currently pursuing **B.Tech in Computer Science & Engineering**
+
+💻 Strong command of **C++** and **Object-Oriented Programming (OOP)**
+
+🧩 Basic understanding of **Data Structures & Algorithms**
+
+🐍 Basic knowledge of **Python**
+
+🌐 Familiar with **HTML** and **CSS**
+
+🚀 Passionate about building projects and continuously improving my skills.
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ Tools
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌱 Currently Learning
+
+Advanced Data Structures & Algorithms • Modern C++ • Full-Stack Development
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Goals
+
+✨ Improve Problem-Solving Skills
+
+🚀 Build Real-World Projects
+
+🤝 Contribute to Open Source
+
+💼 Grow as a Software Developer
+
+</div>
+
+---
+
+<div align="center">
+
+## 📫 Connect With Me
+
+<a href="https://github.com/your-github-username">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ *"Learning • Building • Growing — One Commit at a Time."*
+
+</div>
